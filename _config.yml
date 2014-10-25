@@ -9,6 +9,9 @@ google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 links:
   - name:         About
     url:          /about
+  - name:         Members
+    url:          /members
+    external:     true
   - name:         GitHub
     url:          http://github.com/sdutlinux
     external:     true
