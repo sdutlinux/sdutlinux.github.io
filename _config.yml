@@ -11,7 +11,7 @@ links:
     url:          /about
   - name:         Members
     url:          /members
-    external:     true
+    external:     false
   - name:         GitHub
     url:          http://github.com/sdutlinux
     external:     true
