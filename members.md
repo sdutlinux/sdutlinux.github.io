@@ -74,3 +74,12 @@ pythoner，热爱生活.
 
 
 * 博客: [http://xpaomian.com](http://xpaomian.com)
+
+## 李敏成
+
+![magine](http://magine.qiniudn.com/psu.jpg)
+
+* 计算机学院12级
+
+
+* 博客: [自闭症患者，没有博客。]()
