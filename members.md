@@ -53,7 +53,7 @@ title: Members
 
 喜欢linux, python,
 
-* 博客: [http://ma6174.cnblogs.com](http://ma6174.cnblogs.com)
+* 博客: [https://github.com/ma6174/blog/issues](https://github.com/ma6174/blog/issues?q=is:open+is:issue)
 
 
 ##张卫
