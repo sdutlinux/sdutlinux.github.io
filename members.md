@@ -30,7 +30,7 @@ title: Members
 
 * 计算机学院09级
 
-Go程序员，Gnu/linux 坚定支持者，使用Arch,ubuntu 等。喜欢Ruby, Rails,Golang。
+程序员, 专业打杂, 熟悉xxx语言`HelloWorld`
 
 * 博客：[http://li.sdutlinux.org/](http://li.sdutlinux.org/)
 
