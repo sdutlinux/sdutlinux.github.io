@@ -83,3 +83,13 @@ pythoner，热爱生活.
 
 
 * 博客: [自闭症患者，没有博客。]()
+
+## 张睿提
+
+![zrt](http://sdut-zrt.qiniudn.com/IMG_2024.jpg)
+
+* 计算机学院13级
+
+
+* 博客: [http://imomi.info](http://imomi.info)
+
