@@ -1,0 +1,36 @@
+---
+layout: post
+title: "2014/10/31技术交流（新人培训向）"
+date: 2014-10-31 20:38
+disqus: y
+---
+
+## 交流内容
+
++ 刘伟
+
+  - 作品展示 小兜
+  - Windows 下 Android 开发环境的配置
+
++ 王雷
+
+  - 老人幼儿GPS跟踪系统
+  - 树莓派作品展示
+
+![3](http://magine.qiniudn.com/2014-10-31 192853.jpg)
+
+
++ 谭贺贺
+
+  - 工具分享 autojump
+  - oh-my-zsh 的插件/主题配置与演示
+
++ 李敏成
+
+  - 写个脚本去扒图
+  - 如何快速搭建Django站点
+
+![2](http://magine.qiniudn.com/2014-10-31 192846.jpg)
+![1](http://magine.qiniudn.com/2014-10-31 192843.jpg)
+
+Ps: Happy Halloween!
