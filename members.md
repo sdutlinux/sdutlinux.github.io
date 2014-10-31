@@ -84,6 +84,15 @@ pythoner，热爱生活.
 
 * 博客: [自闭症患者，没有博客。]()
 
+##  刘春辉
+
+![hui](http://liuchunhui.qiniudn.com/e.jpg)
+
+* 计算机学院12级
+
+
+* 博客: [http://liuchunhui.github.io/)
+
 ## 张睿提
 
 ![zrt](http://sdut-zrt.qiniudn.com/IMG_2024.jpg)
@@ -92,4 +101,15 @@ pythoner，热爱生活.
 
 
 * 博客: [http://imomi.info](http://imomi.info)
+
+
+
+标签（空格分隔）： 未分类
+
+---
+
+在此输入正文
+
+
+
 
