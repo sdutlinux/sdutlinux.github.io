@@ -32,7 +32,7 @@ title: Members
 
 程序员, 专业打杂, 熟悉xxx语言`HelloWorld`
 
-* 博客：[http://li.sdutlinux.org/](http://li.sdutlinux.org/)
+* 博客：[sf.gg/lds](http://segmentfault.com/blog/lds)
 
 
 ##刘哲
