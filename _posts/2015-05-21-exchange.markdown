@@ -1,0 +1,48 @@
+---
+layout: post
+title: "2015/05/21技术交流"
+date: 2015-05-21 20:38
+disqus: y
+---
+
+## 交流内容
+
+### 张志友
+
+  + java web开发三大框架之sping介绍
+
+    - Linux PATH路径问题
+
+![1](http://7xj3s8.com1.z0.glb.clouddn.com/slugIMG_0264.JPG)
+![2](http://7xj3s8.com1.z0.glb.clouddn.com/slugIMG_0266.JPG)
+
+### 叶思俊
+
+  + Docker 介绍及入门操作
+
+![3](http://7xj3s8.com1.z0.glb.clouddn.com/slugDocker.png)
+
+### 何艳红
+
+  + [WORDPRESS密码算法规则及忘记密码解决方案](http://ttop5.net/?p=874)
+
+![4](http://7xj3s8.com1.z0.glb.clouddn.com/slugIMG_0269.JPG)
+
+### 彭呈凯
+
+  + java web开发框架之struts2介绍
+  + jsp select 两种联动框
+
+![5](http://7xj3s8.com1.z0.glb.clouddn.com/slugIMG_0271.JPG)
+![6](http://7xj3s8.com1.z0.glb.clouddn.com/slugIMG_0273.JPG)
+
+### 董炳蔚
+
+  + Bootstrap 介绍
+    - bootstap 的栅格系统入门
+  + 介绍常见的前台框架和bootstap案例
+
+![7](http://7xj3s8.com1.z0.glb.clouddn.com/slugIMG_0279.JPG)
+![8](http://7xj3s8.com1.z0.glb.clouddn.com/slugIMG_0280.JPG)
+
+Ps: 第一次在信息楼java组开交流会
