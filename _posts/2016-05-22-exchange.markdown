@@ -1,0 +1,45 @@
+---
+layout: post
+title: "2016/05/22技术交流"
+date: 2016-05-22 19:00
+disqus: y
+---
+
+## 交流内容
+
+### 先放一张全体照
+
+![1](http://o6om1eg3i.bkt.clouddn.com/DSC00204.jpg)
+
+### 吕绘杨
+
+  + requests + flask 实现正方教务系统的模拟登录
+
+![2](http://o6om1eg3i.bkt.clouddn.com/DSC00206.jpg)
+
+### 叶思俊
+
+  + OAuth2.0的机制原理讲解
+
+![3](http://o6om1eg3i.bkt.clouddn.com/DSC00213.jpg)
+
+### 李敏成
+
+  + chrome F12的应用
+  + 提出问题与解答疑问
+
+![4](http://o6om1eg3i.bkt.clouddn.com/DSC00215.jpg)
+
+### 陈海波
+
+  + docker介绍与daocloud的应用
+
+![5](http://o6om1eg3i.bkt.clouddn.com/DSC00217.jpg)
+
+### 闫子璐
+
+  + 分享面试经验与解答疑问
+
+![6](http://o6om1eg3i.bkt.clouddn.com/DSC00221.jpg)
+
+Ps: 大一大二大三大四成员都在，人比较全的一次会议
