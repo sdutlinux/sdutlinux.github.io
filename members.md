@@ -112,4 +112,10 @@ pythoner，热爱生活.
 * 博客: [http://nplus.xyz](http://nplus.xyz)
 
 
+## 吕绘杨
 
+![huiyang233](http://o6om1eg3i.bkt.clouddn.com/WIN_20160526_15_10_06_Pro.jpg)
+
+* 计算机学院14级
+
+* 博客：[http://blog.lvhuiyang.cn](http://blog.lvhuiyang.cn)
